@@ -17,7 +17,7 @@ int main(){
         }
     }
     if(count == 0){
-        cout << n << " la so nguyen ton ----- ----";
+        cout << n << " la so nguyen ton";
     }else{
         cout << n << " khong phai so nguyen ton";
     }
